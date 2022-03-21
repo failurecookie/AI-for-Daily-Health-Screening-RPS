@@ -1,3 +1,5 @@
+#this file is in development and is not finished. This however, should be, once finished, run better than the current version on Microsoft Edge.
+
 '''
 this is a version two of the automation and is currently working as the standard version. This includes bug fixes that are
 patching the bugs in version 1 and will be published as an official release for standard screen laptops and will be the first public
